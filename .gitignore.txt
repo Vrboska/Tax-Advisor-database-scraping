@@ -1,0 +1,2 @@
+.tax_advisors
+db.sqlite3
