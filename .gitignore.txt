@@ -1,2 +1,2 @@
-.tax_advisors
+D:\From_linux\Desktop\kdpcr_crawler\tax_advisors.db
 db.sqlite3
